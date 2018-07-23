@@ -5,7 +5,7 @@ puts "What is the name of your pary?"
 party_name = gets.chomp
 puts "What is the date of your party?"
 date = gets.chomp
-puts = "When do you want them to RSVP?"
+puts "When do you want them to RSVP?"
 rsvp = gets.chomp
 puts "What is the time of your party?"
 time = gets.chomp
