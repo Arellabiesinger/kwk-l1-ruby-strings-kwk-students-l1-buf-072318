@@ -11,7 +11,7 @@ puts "What is the name of your host?"
 host_name = gets.chomp
 puts " Dear #{guest_name}, 
 
-you are cordially invited to the best #{party_name} ever on #{date} at #{time}! Please RSVP no later than #{date}. 
+you are cordially invited to the best #{party_name} party ever on #{date} at #{time}! Please RSVP no later than #{date}. 
 
 Sencerly, #{host_name} "
 
