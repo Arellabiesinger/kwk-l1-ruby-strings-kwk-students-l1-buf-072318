@@ -9,12 +9,9 @@ puts "What is the time of your party?"
 time = gets.chomp
 puts "What is the name of your host?"
 host_name = gets.chomp
+rsvp = #{date} - 1
 puts " Dear #{guest_name}, 
 
-you are cordially invited to the best #{party_name} party ever on #{date} at #{time}! Please RSVP no later than #{date}. 
+You are cordially invited to the best #{party_name} party ever on #{date} at #{time}! Please RSVP no later than #{rsvp}. 
 
 Sencerly, #{host_name} "
-
-
-
-# Try starting out with puts'ing a string.
