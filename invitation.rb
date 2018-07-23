@@ -9,7 +9,7 @@ puts "What is the time of your party?"
 time = gets.chomp
 puts "What is the name of your host?"
 host_name = gets.chomp
-puts " Dear #{guest_name}, you are"
+puts " Dear #{guest_name}, you are cordially invited to the best #{party_name} ever! "
 
 
 
